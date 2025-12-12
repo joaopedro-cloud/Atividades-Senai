@@ -1,0 +1,1 @@
+public class Ex3 { public static void main(String[] args) { int[] v={-3,4,-1,6,7,-2,-8,9}; int pos=0,neg=0; for(int n:v){ if(n>0)pos++; else neg++; } System.out.println("Positivos: "+pos); System.out.println("Negativos: "+neg); }}

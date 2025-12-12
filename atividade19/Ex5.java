@@ -1,0 +1,1 @@
+public class Ex5 { public static void main(String[] args) { String[] p={"casa","banana","carro","sol","computador"}; int c=0; for(String s:p) if(s.length()>5)c++; System.out.println("Mais de 5 caracteres: "+c); }}

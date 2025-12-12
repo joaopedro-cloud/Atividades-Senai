@@ -1,0 +1,1 @@
+public class Ex11 { public static void main(String[] args) { int[] id={15,20,25,30,35}; int s=0; for(int i:id)s+=i; System.out.println("Média das idades: "+(s/(double)id.length)); }}

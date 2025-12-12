@@ -1,0 +1,1 @@
+public class Ex12 { public static void main(String[] args) { int[] v={1,2,3,4,5}; v[2]=0; for(int n:v)System.out.print(n+" "); }}

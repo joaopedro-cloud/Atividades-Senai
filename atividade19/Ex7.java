@@ -1,0 +1,1 @@
+import java.util.*; public class Ex7 { public static void main(String[] args) { Scanner sc=new Scanner(System.in); int[] v=new int[5]; for(int i=0;i<v.length;i++){ System.out.print("Digite um número: "); v[i]=sc.nextInt(); } for(int n:v)System.out.print(n+" "); }}

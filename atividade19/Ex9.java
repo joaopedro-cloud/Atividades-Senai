@@ -1,0 +1,1 @@
+public class Ex9 { public static void main(String[] args) { int[] v={6,9,15,7,4,18,21,13,8,3}; int c=0; for(int n:v) if(n%3==0)c++; System.out.println("Divisíveis por 3: "+c); }}

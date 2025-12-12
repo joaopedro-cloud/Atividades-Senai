@@ -1,0 +1,1 @@
+import java.util.*; public class Ex6 { public static void main(String[] args) { int[] v={1,2,3,4,5,6,7,8,9,10}; Scanner sc=new Scanner(System.in); System.out.print("Digite um número: "); int b=sc.nextInt(); boolean e=false; for(int n:v) if(n==b)e=true; System.out.println(e?"Número encontrado!":"Número não encontrado."); }}

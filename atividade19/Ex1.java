@@ -1,0 +1,1 @@
+public class Ex1 { public static void main(String[] args) { double[] notas = {7,8,9,6,5}; double soma=0; for(double n:notas)soma+=n; System.out.println("Média: "+soma/notas.length); }}

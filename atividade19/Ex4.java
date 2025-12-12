@@ -1,0 +1,1 @@
+public class Ex4 { public static void main(String[] args) { int[] v={20,10,30,25,40,50}; int maior=v[0],menor=v[0]; for(int n:v){ if(n>maior)maior=n; if(n<menor)menor=n; } System.out.println("Maior: "+maior); System.out.println("Menor: "+menor); }}

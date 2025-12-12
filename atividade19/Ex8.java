@@ -1,0 +1,1 @@
+public class Ex8 { public static void main(String[] args) { int[] v={5,6,9,10,11,12}; for(int n:v) System.out.println(n+(n%2==0?" → Par":" → Ímpar")); }}
